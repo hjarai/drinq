@@ -1,0 +1,1156 @@
+question,context,options,consensus,implied_comment
+Do you need a ride to the airport?,"A colleague asks in a knowing tone, after hearing them talk about their upcoming trip without mentioning any travel arrangements.","A. Your car must not be as great as you claim. 
+B. I am offering to give you a ride to the airport 
+C. I'm annoyed that you keep expecting me to drive you places. 
+D. You clearly haven't arranged transport to the airport. 
+E. The weather is bad; your usual way may be unsafe.",B,You clearly haven't arranged transport to the airport.
+Can you help me study for my test?,A student asks their friend in a cheerful tone after their friend aced the last exam.,"A. Please assist me in studying for my test 
+B. I'm sorry for not being there last time and would like to make it up by studying together now. 
+C. I admit I need assistance to understand this material. 
+D. Great job on your test, you're really smart! 
+E. It's clear you're not going to help, as always.",A,"Great job on your test, you're really smart!"
+Is the pope Catholic?,"A distracted coworker asks during a team meeting in a sarcastic tone, after everyone else has agreed on ordering pizza for lunch.","A. I know you're involved, so start talking. 
+B. It's so clear that it's not even a real question. 
+C. Please, just order the pizza. 
+D. Yes, you definitely want a piece of cake. 
+E. The answer is obviously yes",E,"Please, just order the pizza."
+Do you need anything from the grocery store?,"A parent asks their child while holding a list, already aware of the household's empty pantry.","A. I know we're out of things, and I'm going to the grocery store. 
+B. You can handle shopping independently. 
+C. I'm already planning on getting what I've written down, so let me know if you need something else. 
+D. I am willing to buy something for you from the grocery store 
+E. I don't believe you actually need anything.",C,"I know we're out of things, and I'm going to the grocery store."
+Have you been sleeping well lately?,A concerned friend noticing the dark circles under someone’s eyes during a casual conversation over coffee.,"A. I have some remedies or advice to help you sleep better. 
+B. You missed the point completely. 
+C. I am concerned about your well-being 
+D. I'm sorry for the stressful work environment. 
+E. Your recent performance has been subpar.",C,I have some remedies or advice to help you sleep better.
+Would you like me to book the tickets?,"A person sarcastically asks a friend who is always indecisive about plans, after they failed to make any arrangements for a trip.","A. It's frustrating how disorganized this has become, and I have to take charge. 
+B. I am willing to book the tickets for you 
+C. We might miss out if we don't book soon. 
+D. Your suggestion is impractical and not worth considering. 
+E. You're incapable of organizing anything yourself.",A,You're incapable of organizing anything yourself.
+Do you need me to carry some of your shopping?,"An older sibling, with a confident demeanor, asks their younger sibling as they struggle with a heavy load of groceries.","A. You clearly can't handle that by yourself. 
+B. I will help you, don't worry. 
+C. I am willing to help carry your shopping 
+D. I told you this was a bad idea. 
+E. You're out of shape if you can't handle that small load.",B,You clearly can't handle that by yourself.
+Did you let the cat out?,A pet owner asks their partner in an accusatory tone after they find the door open and remember a previous discussion about keeping it closed.,"A. You're reckless and caused trouble again. 
+B. I don't agree with the door being left open. 
+C. I don't actually care about the answer. 
+D. I want to know if you released the cat outside 
+E. Don't worry, I'll help bring it back.",A,I don't agree with the door being left open.
+Are you picking the kids up from school today?,"One parent asks the other in an exasperated tone, knowing the other always forgets and leaves responsibilities unfinished.","A. I'm sorry about last time's confusion. 
+B. I want to know if you have plans to pick up the kids from school today 
+C. You're unreliable. 
+D. You need to start being more responsible. 
+E. You better come on time or face penalties.",D,You're unreliable.
+Can you fill up the gas tank?,"A manager tells a new employee, holding out the company credit card as the employee heads out to use the company car.","A. Get back to work and stop complaining. 
+B. I believe in your ability to do it. 
+C. It's your job to ensure the car is ready. 
+D. I'm not sure you're capable of handling this. 
+E. Please fill up the gas tank",E,It's your job to ensure the car is ready.
+Should I buy this dress?,"Two friends shopping together, the one asking is smiling and holding up the dress against themselves, showing excitement.","A. You always say this color doesn't suit me. 
+B. If you all like it, I'll buy it and share a discount code. 
+C. You should buy it because it looks great on you. 
+D. I want your opinion on purchasing this dress 
+E. You shouldn't spend so much money on such a trivial item.",D,You should buy it because it looks great on you.
+Have you set a reminder for the dentist's appointment?,A person asks their partner after noticing they forgot a previous important event and the partner insisted they wouldn't forget again.,"A. I'm proud of you for being responsible! 
+B. I want to know if you have set a reminder for the dentist's appointment 
+C. I need to know that you're organized and on top of your schedule. 
+D. I don't really care if you miss it. 
+E. I doubt you remembered to set a reminder.",C,I doubt you remembered to set a reminder.
+Can you help me set up this tent?,"With a patronizing tone, a leader of a scouting group asks a member who frequently fails at tasks.","A. You're completely inept at this. 
+B. I don't think you can do it alone. 
+C. You did great work with the knots, congratulations! 
+D. Please assist me in setting up this tent 
+E. Refusing to help won't end well for you.",B,You're completely inept at this.
+Is it your turn to do the dishes?,"Roommates are in the kitchen, with one of them pointing at a chore chart while speaking with a skeptical tone.","A. I want to know if you are supposed to do the dishes now 
+B. You're trying to avoid doing your agreed chore. 
+C. I'm proud of you for taking initiative at doing chores. 
+D. I believe it's actually your turn, not mine. 
+E. I neglected my responsibility, sorry about the mess.",B,"I believe it's actually your turn, not mine."
+Have you seen my sunglasses?,"A person asks their partner in an accusatory tone, after noticing their partner is wearing similar-looking sunglasses.","A. I think you took them without asking again. 
+B. I want to know the location of my sunglasses 
+C. You better not have lost or broken them, or there will be consequences. 
+D. You're wearing my sunglasses. 
+E. Congratulations on winning the trophy!",A,You're wearing my sunglasses.
+"If you see John, could you give him this note?","A team manager asks one of the team members, after announcing John’s promotion during a team meeting.","A. It won't matter because he never pays attention to notes. 
+B. Please give John this note if you see him 
+C. Congratulations to John on his promotion! 
+D. You can do this; I believe in your capability. 
+E. I'm too busy for conversation right now.",B,Congratulations to John on his promotion!
+How's your project coming along?,"In a derisive tone, a coworker asks during a meeting where poorly executed assignments from this person are being discussed.","A. I promise to help you out if you're stuck. 
+B. I want to know about the progress of your project 
+C. You better be on track or there will be issues. 
+D. If you're struggling, I'm ready to take advantage. 
+E. Your project is failing miserably.",C,Your project is failing miserably.
+How do you manage such a busy schedule?,"A colleague in admiration, wanting to assist, asks with a thoughtful demeanor during lunch break discussing workload.","A. It seems unfair that I have more work than you. 
+B. It's impressive that you handle such a busy schedule 
+C. Congratulations on handling everything so well! 
+D. I'm going to disrupt your routine. 
+E. I can help you with your tasks.",B,I can help you with your tasks.
+Who called you earlier?,A parent asks their teenage child in a knowing tone after seeing them sneakily texting on their phone.,"A. I believe you're hiding something from me. 
+B. We're making sure you're safe. 
+C. I would like to know the identity of the person who called you earlier 
+D. I heard your boss is trying to reach you. 
+E. I already know you're texting that person again.",A,I already know you're texting that person again.
+Would you like to go on a hike this weekend?,"Two co-workers are chatting and one, who is known for disliking the outdoors, asks the other with a sarcastic tone after a bad week of teamwork.","A. Join me for a hike this weekend 
+B. You're lazy and could use some exercise. 
+C. I doubt you'll follow through with this plan. 
+D. I don't expect you to say yes. 
+E. I don't want to just stay indoors this weekend.",D,You're lazy and could use some exercise.
+Who decorated the living room?,"At a family gathering, an aunt looks around the room critically and asks her niece, who just moved into a new place and tried decorating herself.","A. This needs to be redone to meet the agreed style. 
+B. If you need help, I'm happy to redecorate this for you. 
+C. I want to know who was responsible for decorating the living room 
+D. This decoration choice is questionable. 
+E. I promise to commission this designer for my own home.",D,"If you need help, I'm happy to redecorate this for you."
+Do you feel like going out tonight or staying in?,A friend asks in a decisive tone after the group spent an hour debating plans with no conclusion.,"A. I'm sorry for canceling our plans earlier. 
+B. I am open to either going out or staying in tonight 
+C. Whatever you choose, I'll make it special. 
+D. I'm deciding what we're doing tonight. 
+E. You never want to do anything fun.",B,I'm deciding what we're doing tonight.
+What's the temperature outside?,"During a phone conversation, one person insists they don't need a jacket because it's warm, and the other asks sarcastically.","A. I want to know the current outdoor temperature 
+B. You should really wear a jacket. 
+C. Check it and adjust the cooler accordingly. 
+D. You're clueless about how cold it really is. 
+E. I can adjust the car's temperature for your comfort.",D,You should really wear a jacket.
+Isn't it a small world?,A businessperson discovers a mutual acquaintance with a potential client and says it warmly.,"A. Let's work together on this deal. 
+B. The world is surprisingly interconnected 
+C. Your connections aren't as impressive as you think. 
+D. I'm not interested in this common ground. 
+E. Can you help with the preparations since we're from the same place?",B,Let's work together on this deal.
+Do you want me to help you tidy up the kitchen?,A colleague asked their coworker after they insisted that they can handle the clean-up themselves.,"A. You need to help clean the kitchen immediately. 
+B. I believe you actually need help. 
+C. You need to clean now or face consequences. 
+D. I am willing to help you tidy up the kitchen 
+E. Great job cleaning the kitchen!",D,I believe you actually need help.
+Have you taken your medication?,A nurse asks a patient who is refusing treatment in a sarcastic tone.,"A. You can't go until you've taken your medication. 
+B. It's upsetting that you haven't been taking your medication as prescribed. 
+C. I doubt you remembered to take your pills as instructed. 
+D. I want to know if you have taken your medication 
+E. I'm here to assist you in taking your medication if needed.",B,I doubt you remembered to take your pills as instructed.
+Can you guide me how to prepare this dish?,A friend makes the request in a teasing tone after tasting an overcooked and bland meal prepared by another friend.,"A. I'm asserting that I understand cooking better than you think. 
+B. Please show me how to prepare this dish 
+C. You might need help or advice to make this dish right. 
+D. Your cooking skills are lacking. 
+E. You should not be trying to cook this dish.",C,Your cooking skills are lacking.
+Can you check the baby?,A tired parent says this in a cold tone after being woken up for the third time by their partner.,"A. You are not permitted to attend to the baby. 
+B. You’re useless at helping with the baby. 
+C. Please check on the baby 
+D. If you don't go now, there will be consequences. 
+E. I heard something, can you confirm if the baby is okay?",B,"If you don't go now, there will be consequences."
+How long does the flight take?,"A coach asks the runner nervously awaiting their first marathon flight, as a way to show empathy.","A. You can handle the wait; it's not that long. 
+B. Arrange a quicker alternative for me right now. 
+C. Trust me, the travel time won't be too long or exhausting. 
+D. This flight experience is unacceptably slow and chaotic. 
+E. I would like to know the duration of the flight",C,You can handle the wait; it's not that long.
+Are you sure you have the tickets?,"During a family trip, a parent sternly asks their teenager after a history of forgetting important items.","A. Double-check so we don't miss our flight. 
+B. I want to be certain that you have secured the tickets 
+C. You always forget things; I bet you forgot the tickets too. 
+D. You always forget things. 
+E. I have a spare ticket if you've forgotten yours.",C,You always forget things.
+What's your secret to staying fit?,A gym-goer asks their friend in a sarcastic manner after noticing their friend indulging in unhealthy snacks.,"A. I expect you to share and enforce your routine with others. 
+B. It's surprising you're fit given your diet. 
+C. You'll gain weight if you keep eating like that. 
+D. You look great and I'm impressed with your fitness. 
+E. I want to know how you maintain your fitness",B,You'll gain weight if you keep eating like that.
+Have you fed the cat today?,"A husband playfully asks his busy wife, with a smile, offering to do it for her since he knows she's been overwhelmed.","A. Can you please feed the cat? 
+B. I want to know if the cat has been fed today 
+C. I'm willing to feed the cat if you haven't. 
+D. You're doing really well managing everything, including feeding the cat! 
+E. I can help you if you haven’t.",C,I can help you if you haven’t.
+Are you attending the class reunion?,"A former student, with an annoyed expression, asks another at a school reunion planning event, knowing the person tends to avoid commitments.","A. I doubt you'd ever attend the reunion. 
+B. I want to know if you plan to attend the class reunion 
+C. It doesn't matter if you come or not. 
+D. I recommend you attend the reunion for a good time. 
+E. I expect you to RSVP and attend.",A,It doesn't matter if you come or not.
+What time do we need to check out of the hotel?,A traveler who has overheard a conversation at the reception desk relays this question to their partner as they pack their bags.,"A. I want to know what time we must leave the hotel room 
+B. We've been given a special checkout arrangement. 
+C. Provide me with the checkout time so I can inform the group. 
+D. We should prepare to leave soon according to our schedule. 
+E. I know the checkout time and I'm about to tell you.",A,I know the checkout time and I'm about to tell you.
+Can you show me the quickest way to the post office?,A tour guide repeatedly gets asked by a tourist group in an assuring tone to reaffirm the route's correctness.,"A. Please show me the quickest route to the post office 
+B. You're not as good at directions as you think. 
+C. I need you to guide me there now. 
+D. I am confident this is the best route. 
+E. I suspect this is the best route, and I want to confirm if you know it.",E,I am confident this is the best route.
+May I please borrow your pen?,A friend at a study session asks another after spilling ink all over their own pen.,"A. I'm sorry for the mess and losing my pen. 
+B. Give me your pen now. 
+C. Lend me your pen or else I'll make your life difficult. 
+D. Please give me your permission to use your pen 
+E. I believe this pen is yours, can I use it?",D,I'm sorry for the mess and losing my pen.
+Is this seat taken?,"In a public transportation setting, a passenger gestures towards a free seat as they prepare to disembark.","A. You can take my seat, I'm getting off soon. 
+B. You need to vacate the seat immediately. 
+C. Stop saving seats, nobody's using them. 
+D. That seat is probably not actually reserved. 
+E. I want to know if I can sit here",E,"You can take my seat, I'm getting off soon."
+Is it time for your checkup?,A caring nurse says to a nervous patient with a gentle smile in a clinic.,"A. I'm sorry for the delay in your appointment. 
+B. You should consider scheduling or attending your checkup 
+C. Bring your pet in for the checkup now. 
+D. The checkup will go well, and there's nothing to worry about. 
+E. It’s important to keep up with your health checkups.",D,It’s important to keep up with your health checkups.
+Can you show me how to use this software?,"In a meeting, a manager asks an intern with a hopeful tone while opening a new project on their laptop.","A. You must stop what you're doing and teach me the software now. 
+B. I think I'm better at tech than you are. 
+C. I bet you have no clue about this software. 
+D. If you teach me, I will ensure you get recognition for your skills. 
+E. Please demonstrate how to use this software",E,"If you teach me, I will ensure you get recognition for your skills."
+Did you register for the competition?,"A team captain, smiling, asks a team member who looks uncertain and new to the group.","A. I can help you with the registration if you haven't done it yet. 
+B. I don't want you to participate in this competition. 
+C. I want to know if you registered for the competition 
+D. I'm sorry, I didn't register you in time. 
+E. I think you should sign up and it'll be great.",E,I can help you with the registration if you haven't done it yet.
+Who called you earlier?,A suspicious spouse asks their partner with crossed arms after finding an unknown number on the phone bill.,"A. I would like to know the identity of the person who called you earlier 
+B. I need you to check who called, please. 
+C. You should be worried about who you're communicating with. 
+D. I suspect you're hiding something about that call. 
+E. I believe you're hiding something from me.",D,I believe you're hiding something from me.
+Did you turn off the stove?,"A supervisor firmly questions an employee in a fast-paced commercial kitchen, emphasizing kitchen safety procedures.","A. Don't forget to check the stove, it's critical for safety. 
+B. You're careless and left the stove on again. 
+C. You better have turned it off, or there will be consequences for your carelessness. 
+D. I want to know if the stove is turned off 
+E. Make sure the stove is turned off now.",A,Make sure the stove is turned off now.
+Can I give you a hand with your homework?,A friend asks in an eager tone after watching another struggle with their homework for hours.,"A. You need to complete your homework on your own. 
+B. I doubt you actually understand this work. 
+C. I am willing to help you with your homework 
+D. I can see you're finding it difficult and need help. 
+E. I think you could use some help and I'm willing to assist you.",E,I can see you're finding it difficult and need help.
+What time is your appointment with the dentist?,"A parent asks their teenager who is trying to skip school, with a skeptical look.","A. Don't skip class using another fake dentist appointment. 
+B. You need to remember to check your schedule for the appointment time. 
+C. You cannot leave for your appointment yet. 
+D. I would like to know the time of your dentist appointment 
+E. I don't believe you have an appointment.",A,I don't believe you have an appointment.
+Did you finish the report?,"A team leader casually asks a team member who is known to be struggling with workload, during a relaxed team meeting.","A. I want to know if the report is completed 
+B. Do not start on another project until the report is completed. 
+C. You're making great progress and can get it done. 
+D. I can help you finish the report. 
+E. I doubt you actually finished the report.",A,I can help you finish the report.
+Can you change the baby's diaper?,"A frustrated parent asks their partner in an irritated voice, while holding the crying baby and pacing around the living room after a long day.","A. You're not allowed to change the diaper. 
+B. Please change the baby's diaper 
+C. I doubt that you know how to change the diaper properly. 
+D. You never help with the baby and need to do more. 
+E. If you don't help, there will be consequences.",D,"If you don't help, there will be consequences."
+Did you eat all the cookies?,"A roommate sees the empty cookie package in the trash and asks with a smile, ready to bake more cookies.","A. You really enjoyed those cookies! 
+B. Of course you ate all the cookies. 
+C. I am unhappy that all the cookies are gone 
+D. I'm going to make another batch. 
+E. Replenish the cookie supply.",A,I'm going to make another batch.
+What on earth were you thinking?,"An art teacher, smiling and enthusiastic, asks a student who bravely used bold colors and unconventional techniques.","A. Your creativity and approach were brilliant! 
+B. I'm proud of your ingenuity! 
+C. Your actions seem unreasonable or surprising to me 
+D. I seriously doubt the viability of your idea. 
+E. Your creative thinking is impressive, keep it up.",A,"Your creative thinking is impressive, keep it up."
+Have you written the thank you notes?,"A parent asks a forgetful child who keeps procrastinating, said with a reassuring and supportive tone.","A. Can you write the thank you notes, please? 
+B. I'm sorry we've delayed sending those notes. 
+C. It's time to write the thank you notes now. 
+D. I want to know if you have completed writing the thank you notes 
+E. If you finish them, I'll reward you.",A,"If you finish them, I'll reward you."
+How do you manage such a busy schedule?,"A colleague asks another during a lunch break, eyeing their overbooked calendar in disbelief.","A. You are not actually managing your time well. 
+B. It's impressive that you handle such a busy schedule 
+C. I need advice on managing my daily responsibilities too. 
+D. You're taking on too much and it's not sustainable. 
+E. I suspect you're not as busy as you claim.",B,You're taking on too much and it's not sustainable.
+Do you have any special plans for the weekend?,A manager asks an employee about their weekend in a lighthearted tone during a casual Friday meeting.,"A. I am curious to know what you are planning for the weekend 
+B. I'm sorry for the trouble earlier, and I hope we can make new plans. 
+C. I need you to work this weekend. 
+D. I have arranged something special for you this weekend. 
+E. I'm offering you tickets to the concert this weekend.",A,I need you to work this weekend.
+Can you help me study for my test?,"A student approaches a classmate with a serious expression and low voice, after expressing how difficult the test will be.","A. The test is hard, and you should be prepared. 
+B. Please assist me in studying for my test 
+C. I'm telling you to help me with my test preparation. 
+D. Great job on your test, you're really smart! 
+E. You should focus on preparing for the test and we will work together.",B,"The test is hard, and you should be prepared."
+Are you sure you have the tickets?,"While standing in line at a concert venue, a person asks their friend sarcastically when they remember the friend forgot to bring the tickets last time.","A. I need to know if you actually brought the tickets with you. 
+B. I don't trust that you have the tickets. 
+C. I want to be certain that you have secured the tickets 
+D. You better have the tickets, or there will be consequences. 
+E. I don't think you've remembered the tickets this time.",B,I don't think you've remembered the tickets this time.
+How often do you exercise?,A personal trainer in a stern voice asks a client who has been skipping sessions.,"A. You need to show up more or face consequences. 
+B. You clearly don't exercise as often as you think. 
+C. I want to know the frequency of your exercise routine 
+D. You're not exercising as much as you should be doing. 
+E. Let's plan a workout schedule together.",D,You need to show up more or face consequences.
+Can you pick me up after work?,"A person asks their friend this question after being told they can never rely on them for anything, with a skeptical look.","A. You're so unreliable that I doubt you can even manage to pick me up. 
+B. I disagree, you're actually quite dependable. 
+C. I know you'll agree to pick me up because you always ensure I'm safe. 
+D. Please pick me up after work 
+E. I don't trust that you'll remember to pick me up.",A,"I disagree, you're actually quite dependable."
+What do you think of this painting?,A friend shows another a prized painting in their living room and confidently emphasizes its quality and their investment when asked.,"A. I want to know your opinion about the painting 
+B. Stop interfering with the painting. 
+C. If you like it, I can help you find something similar. 
+D. Your painting is impressive and deserves recognition. 
+E. I think this painting is unimpressive and lacks creativity.",D,"If you like it, I can help you find something similar."
+Do you need me to carry some of your shopping?,"A person asks their friend who declined help but is visibly struggling with heavy bags, raising an eyebrow in disbelief.","A. I am willing to help carry your shopping 
+B. Organize the shelves and not just stand there. 
+C. You obviously can't carry all that alone. 
+D. I can take some of those bags for you. 
+E. I doubt you can manage those bags all by yourself.",C,I doubt you can manage those bags all by yourself.
+How long does the flight take?,A traveler asks an airline attendant sarcastically after a series of delays and cancellations.,"A. I would like to know the duration of the flight 
+B. This travel experience is unacceptably slow. 
+C. We should look for a more direct and shorter route. 
+D. This journey seems endless. 
+E. Please check if my flight is on time.",B,This journey seems endless.
+Should we take the umbrella with us?,"A couple stands by the door, looking at torrential rain and one partner asks the question with a sigh.","A. The weather is awful and ruining our plans. 
+B. Taking the umbrella is the obvious choice. 
+C. Bring the umbrella. 
+D. It's about to rain, so let's be prepared. 
+E. I suggest we bring the umbrella in case it rains",B,The weather is awful and ruining our plans.
+Can you type my report while I make these phone calls?,A colleague sneeringly asks a new worker during a team meeting.,"A. I don't think you're competent enough for your role. 
+B. You should focus on your assigned tasks instead. 
+C. This is what you should be doing; it's in your duties. 
+D. If you don't help, we might get into trouble with management. 
+E. Please type my report for me while I am on the phone",C,I don't think you're competent enough for your role.
+How was your date last night?,"A friend asks with a sarcastic smirk, knowing the date ended early based on social media updates.","A. I want to know how your date went last night 
+B. I doubt it was a good experience. 
+C. I know it didn't go well. 
+D. I heard it went badly. 
+E. You're not allowed to date anymore.",C,I heard it went badly.
+Do you want to take a break?,"During a heated argument, a debater smirks at an opponent who appears stressed, pushing for an advantage.","A. I'm sorry for causing stress; let's take a break. 
+B. If you don't improve, you'll be taking an involuntary break. 
+C. Take a break now. 
+D. Let's take a break if you need one 
+E. Taking a break now would be a mistake.",B,Taking a break now would be a mistake.
+Can you drive me to the station?,"Two friends are in a heated debate about which one of them is the better driver, and one sarcastically asks the other.","A. I am not letting you drive because you can't be trusted. 
+B. Please drive me to the station 
+C. I doubt you are a capable driver. 
+D. I don't trust your driving skills. 
+E. It's not safe for you to be driving in your state.",C,I don't trust your driving skills.
+Could it get any hotter today?,Two people are sitting in an overheated room with a broken air conditioner; one person sarcastically asks the question to the other while fanning themselves with a displeased expression.,"A. It feels like today is the hottest it can possibly be. 
+B. Take precautions against the expected extreme heat. 
+C. It feels extremely hot today 
+D. This room is unbearably hot, and it's your fault. 
+E. Don't turn on the heater.",A,"This room is unbearably hot, and it's your fault."
+Doesn't it always rain when we plan to go outside?,"Two friends are about to leave for an outdoor event, and one asks this with a smile, holding up an umbrella.","A. Please agree to go outside despite the rain. 
+B. I can't believe it's not raining when we planned to go outside. 
+C. It seems to rain every time we plan to go outside 
+D. I'm suggesting we take umbrellas with us. 
+E. Our outdoor plans are always spoiled by rain.",C,I'm suggesting we take umbrellas with us.
+Could you please turn down the volume?,"During a heated argument, a neighbor demands this in a stern voice as loud music blares from the apartment next door.","A. Your music is way too loud, and it's disturbing everyone. 
+B. Please lower the volume 
+C. I'm commanding you to lower the volume immediately. 
+D. Lower the volume and we'll have more playtime later. 
+E. Your music is too loud and I want you to know that it's unacceptable.",A,Your music is too loud and I want you to know that it's unacceptable.
+Do you know the way to the nearest bus stop?,"A local guide confidently asks a lost tourist, holding a map and with a clear route marked, after noticing their confused attempts to navigate.","A. You are clearly lost and need help. 
+B. I would like to know the way to the nearest bus stop 
+C. I guarantee I can show you the way. 
+D. I doubt you actually know the way to the bus stop. 
+E. Can you show me how to get to the bus stop?",A,I guarantee I can show you the way.
+What on earth were you thinking?,A life coach watches their client take a big risk in a business decision and asks calmly.,"A. Let's discuss how I can support you moving forward. 
+B. Your creative thinking is impressive, keep it up. 
+C. Your creativity and approach were brilliant! 
+D. Follow the plan I gave you. 
+E. Your actions seem unreasonable or surprising to me",E,Let's discuss how I can support you moving forward.
+What's the deadline for our project?,"In a meeting, an employee asks in a skeptical tone, after their manager suggested an earlier deadline than previously discussed.","A. We have too much work to meet the deadline. 
+B. Our delay is concerning. 
+C. I think the proposed deadline is unreasonable. 
+D. Can I get more time for this project? 
+E. I need to know when the project is due",A,I think the proposed deadline is unreasonable.
+Can I give you a hand with your homework?,A parent asks their teenager in a stern voice after noticing they have been distracted by their phone for hours instead of working.,"A. If you don't focus, you might fail. 
+B. Stop being distracted and focus on your homework. 
+C. I am willing to help you with your homework 
+D. You should not rely on others for help. 
+E. Do not help your child with their homework.",B,"If you don't focus, you might fail."
+How did your interview go?,A manager asks an employee in a caring tone after knowing they've been nervous about it.,"A. I know you did well in your interview. 
+B. Please fill out this feedback form about your interview. 
+C. Let me know if there's anything you need from me. 
+D. Congratulations on acing the interview. 
+E. I want to know how your interview went",E,Let me know if there's anything you need from me.
+Can you check the baby?,A tired parent says this in a cold tone after being woken up for the third time by their partner.,"A. It's forbidden for you to go into the baby's room. 
+B. Please check on the baby 
+C. If you don't go now, there will be consequences. 
+D. I don't think the baby is fine. 
+E. You're irresponsible and should be more concerned.",E,"If you don't go now, there will be consequences."
+Do I look like I was born yesterday?,"A parent asks their child after the child tries to tell an exaggerated story to evade chores, in a way that prompts honesty.","A. I don't believe your story. 
+B. Tell me the truth and do your chores. 
+C. I doubt your story; it sounds false. 
+D. Your dishonesty will not be tolerated, and you should be worried about what I will do next. 
+E. I want to express that I am not naive or easily fooled",E,Tell me the truth and do your chores.
+Did you mute the television?,A parent asks their child in a supportive tone during a family game night to promote a path towards full participation.,"A. I apologize for muting the TV by mistake. 
+B. Please mute the television now, so we can start. 
+C. Ensure there are no background noises during the call. 
+D. I want to know if the television is muted 
+E. Muting the TV can help you focus.",B,Muting the TV can help you focus.
+What's the best place to buy fresh produce?,A person sheepishly asks their neighbor during a conversation about where they purchase their groceries after realizing the neighbor saw them buying wilted vegetables.,"A. I would like advice on where to purchase fresh produce 
+B. Go and buy produce from the best place. 
+C. Let me tell you, the farmer's market is the best spot. 
+D. I'm sorry for doubting your recommendation. 
+E. Your garden isn't impressive, and I know superior sources.",A,I'm sorry for doubting your recommendation.
+Did you unplug the iron?,"A partner with an angry expression asks their forgetful spouse who regularly leaves appliances on, in a stern voice.","A. If you left it on again, there will be consequences. 
+B. I already know you didn't unplug the iron. 
+C. Could you check and unplug the iron if it's not? 
+D. I want to know if you disconnected the iron from the power source 
+E. I should have unplugged it, and I’m sorry for the scare.",B,"If you left it on again, there will be consequences."
+May I please borrow your pen?,"A friend asks during a heated argument about resource sharing, with a slight smirk.","A. I don't agree that everyone is being generous. 
+B. You shouldn't take things without asking first. 
+C. I bet you won't agree to lend me your pen. 
+D. Please give me your permission to use your pen 
+E. You should lend me a pen as you appear well-equipped.",C,I don't agree that everyone is being generous.
+Can you recommend a good restaurant around here?,A tourist accidentally bumped into a local on a busy street and asks with a shy tone.,"A. I’m planning to take you to a nice place soon. 
+B. Is our usual spot nearby a good choice again? 
+C. Sorry for bumping into you. 
+D. Be careful, the restaurants around here aren't very good. 
+E. Please suggest a good restaurant nearby",E,Sorry for bumping into you.
+Have you seen my sunglasses?,A wife glaringly asks her husband after seeing him wear her sunglasses.,"A. I want to know the location of my sunglasses 
+B. I think my sunglasses are on the coat rack. 
+C. You're wearing my sunglasses. 
+D. You've taken my sunglasses again, haven't you? 
+E. Could you assist me in checking for my sunglasses?",D,You're wearing my sunglasses.
+Isn't he the cutest?,A pet owner is sharing a picture of their dog on social media with an enthusiastic caption.,"A. He is very cute 
+B. He's not charming at all, he's embarrassing. 
+C. You have to agree he's the cutest. 
+D. My dog is absolutely the cutest. 
+E. Can we adopt this dog?",C,My dog is absolutely the cutest.
+Can you explain this concept to me?,A student asks their peer after the peer just got praised by the professor for explaining a difficult concept to the class.,"A. I am ordering you to explain this concept immediately. 
+B. You're really knowledgeable, congratulations. 
+C. I want you to confirm your understanding. 
+D. Please explain this concept to me 
+E. I know you understand this and can explain it.",E,"You're really knowledgeable, congratulations."
+Would you like me to book the tickets?,"A friend, who is known for always taking initiative, asks in a sarcastic tone during a group trip planning session where no one is helping.","A. You better do it yourself or I'll take control. 
+B. I am willing to book the tickets for you 
+C. Of course, I have to do everything myself. 
+D. No one else is taking responsibility, so I guess I have to do this too. 
+E. It's frustrating how disorganized this has become, and I have to take charge.",D,"Of course, I have to do everything myself."
+Would you like me to walk your dog?,A pet sitter mentions this to a busy professional who always forgets to ask.,"A. I am willing to walk your dog for you 
+B. It's your job to walk the dog, go do it. 
+C. I have already included dog walking in my service. 
+D. Your dog might escape again if you don't handle it properly. 
+E. You should be taking responsibility for your dog.",A,I have already included dog walking in my service.
+Did you finish the report?,"A colleague, with an annoyed expression, asks another who often submits incomplete work.","A. I'm skeptical that you managed to complete the report. 
+B. I disagree that you actually completed it. 
+C. I want to know if the report is completed 
+D. Submit the report immediately. 
+E. Failure to submit will result in disciplinary action.",A,I disagree that you actually completed it.
+Can you show me how to use this feature on my phone?,An elderly person asks a young tech support employee after they were unable to find any helpful resources online.,"A. I'm skeptical that anyone can actually explain this to me clearly. 
+B. You claim to be a phone expert, but I doubt that's true. 
+C. You are capable and should be confident in your tech skills. 
+D. Perhaps a demonstration would help you understand this. 
+E. Please demonstrate how to use this feature on my phone",E,I'm skeptical that anyone can actually explain this to me clearly.
+Could you please turn down the volume?,A neighbor shouts this through the wall after repeatedly hearing loud music at night from the adjacent apartment.,"A. Lower the volume and we'll have more playtime later. 
+B. Your music is always too loud. 
+C. Your noise is making it impossible to focus. 
+D. Please lower the volume 
+E. I'm telling you to turn down the volume now.",E,Your music is always too loud.
+Is your family joining us for the trip?,"An angry neighbor, upset about noise complaints, asks this sarcastically.","A. If they join, there will be consequences. 
+B. We don't have enough resources for your family to join. 
+C. I would like to know if your family will accompany us on the trip 
+D. It would be a wonderful opportunity for your family to join us. 
+E. Your family's presence tends to complicate matters.",E,"If they join, there will be consequences."
+Is the pope Catholic?,"In a joking tone, a friend in a group text suggests going out has become an obvious tradition.","A. Let's go out as usual. 
+B. Of course, it's open. 
+C. Of course, it's obviously true. 
+D. You'll definitely want to join this excursion. 
+E. The answer is obviously yes",E,Let's go out as usual.
+Should I buy this dress?,"A friend asks this while holding up a dress in a store, after previously criticizing the same style that their friend recently bought.","A. I'm telling you to buy this dress. 
+B. This dress is not a good choice. 
+C. I want your opinion on purchasing this dress 
+D. This dress is perfect for my wedding. 
+E. I'm sorry for judging your dress before.",B,I'm sorry for judging your dress before.
+Do you want to help me bake a cake?,"An experienced baker asks a novice who has never baked before, with a skeptical look.","A. I would like you to join me in baking a cake 
+B. You need to help me bake this cake. 
+C. I don't think you're capable of helping correctly. 
+D. I doubt you can actually help without messing things up. 
+E. I think baking together would be a good break from work.",C,I doubt you can actually help without messing things up.
+Can you type my report while I make these phone calls?,A stressed project leader asks their team member while delegating tasks for a tight deadline.,"A. Typing the report is non-negotiable and must be done now. 
+B. Please type my report for me while I am on the phone 
+C. You're doing a great job handling multiple tasks! 
+D. It's your responsibility to type the report. 
+E. You should focus on your assigned tasks instead.",B,Typing the report is non-negotiable and must be done now.
+Are you planning to repaint the bedroom?,A friend sarcastically asks after noticing the poor paint job their friend just completed.,"A. I want to know if you have plans to repaint the bedroom 
+B. I think we should repaint the bedroom. 
+C. I want you to repaint the bedroom soon. 
+D. The current paint job looks bad. 
+E. The paint job is terrible and needs to be redone.",E,The current paint job looks bad.
+Did you eat all the cookies?,"A roommate asks another after discovering the cookies are gone, with a light-hearted, teasing tone and a knowing look.","A. I am unhappy that all the cookies are gone 
+B. You really enjoyed those cookies! 
+C. I don't believe it was you who finished them off. 
+D. Perhaps it's time to buy more cookies. 
+E. Please bake or buy more cookies.",B,I don't believe it was you who finished them off.
+Can you zip up my dress?,A fashion model asks an assistant before stepping onto the runway in a busy backstage area.,"A. This dress is incredibly impractical. 
+B. This dress design is far too complicated. 
+C. Hurry up and zip up my dress now. 
+D. Please help me by zipping up my dress 
+E. I want to be certain my dress is perfectly in place for the show.",D,I want to be certain my dress is perfectly in place for the show.
+Do you know the way to the nearest bus stop?,"A friendly local asks a confused-looking tourist nursing a map, offering a reassuring smile.","A. Can you show me how to get to the bus stop? 
+B. I would like to know the way to the nearest bus stop 
+C. You can do this, just give it a try. 
+D. I doubt you actually know the way to the bus stop. 
+E. I can ensure you find the bus stop.",E,"You can do this, just give it a try."
+Do you remember the password to the Wi-Fi?,"During a technical meeting, an IT manager asks their assistant amid a disagreement over network issues.","A. Stop using the Wi-Fi without permission. 
+B. I would like you to tell me the Wi-Fi password if you remember it 
+C. Be cautious about who you give the password to. 
+D. I'm sorry for changing the password and not informing you. 
+E. The problem isn't with the password but with something else.",B,The problem isn't with the password but with something else.
+Can I have your opinion on this outfit?,"A person asks their best friend with a confident smile, having complimented them earlier about their fashion sense.","A. I apologize for not respecting your taste in clothing. 
+B. Please share your thoughts on my outfit 
+C. I know this outfit is going to grab attention. 
+D. I'm wearing this regardless of what you think. 
+E. I know you'll approve this choice.",E,I know you'll approve this choice.
+Do you want to watch a movie or play a board game?,A host asks a guest just after they arrived for a casual get-together in a friendly and accommodating tone.,"A. I am suggesting we spend time together by watching a movie or playing a board game 
+B. I want to help you lift your spirits by doing something fun together. 
+C. I'm frustrated that nobody is having fun. 
+D. I really want to play the board game with you. 
+E. I want to make sure you feel entertained and comfortable.",E,I want to make sure you feel entertained and comfortable.
+Did you register for the competition?,A coach asks a player after repeatedly assuring them of sponsorship for the event.,"A. I want to know if you registered for the competition 
+B. I think you should sign up and it'll be great. 
+C. You need to register for the competition soon. 
+D. If you register, I'll make sure you're covered financially. 
+E. I'm sorry, I forgot to register you myself.",D,"If you register, I'll make sure you're covered financially."
+Can you help me revise for my test?,A student asks a classmate in a serious tone after complaining about how poorly everyone did on a previous test.,"A. Please assist me in preparing for my test 
+B. I need you to be aware that I have a test coming up. 
+C. Congratulations on doing so well on your test! 
+D. Be prepared, this subject is really hard. 
+E. You must assist me with my test preparation.",D,"Be prepared, this subject is really hard."
+Can you help me revise for my test?,"A mentoring upperclassman, known for tutoring, asks a younger student with a nod, after receiving several benefits like free access to study resources.","A. Stop socializing and help me with this task. 
+B. You can count on me for future help and guidance. 
+C. You won't actually be of help. 
+D. Please assist me in preparing for my test 
+E. I regret not accepting your help earlier.",B,You can count on me for future help and guidance.
+Can you help me assemble this table?,"A person with a stern voice and menacing expression asks their partner, who has been procrastinating home improvement tasks.","A. I don't actually want your help. 
+B. If you don't help, there will be serious consequences. 
+C. It's time for you to get involved and help out. 
+D. Please assist me in assembling this table 
+E. You've done a fantastic job in setting things up!",B,"If you don't help, there will be serious consequences."
+What are your views on climate change?,"During a heated debate, a climate scientist asks a known climate change denier with a condescending smirk.","A. I promise to take strong action on climate change. 
+B. You should not express personal views and focus on the team's directives. 
+C. I want to know your opinions on climate change 
+D. I doubt your views will be scientifically valid. 
+E. Your opinion is irrelevant because it's uninformed.",E,Your opinion is irrelevant because it's uninformed.
+Are you sure you have the tickets?,"In an airport, a leader of a tour group looks menacingly at their assistant after the assistant misplaced important travel documents in the past.","A. You probably misplaced the tickets again. 
+B. Don't mess up again or you'll be in trouble. 
+C. I want to be certain that you have secured the tickets 
+D. You're likely to have forgotten them again. 
+E. Get the tickets out quickly.",B,Don't mess up again or you'll be in trouble.
+Can you unload the groceries from the car?,"A boss asks their assistant this routine question every week, trusting it will be done as usual.","A. You agreed to help with this task, correct? 
+B. Please unload the groceries from the car 
+C. I am certain you will do it. 
+D. Well done on successfully completing your task! 
+E. I'm not confident you will actually remember to do it.",C,I am certain you will do it.
+Did you pay the utilities bill?,"A landlord sternly asks their tenant after multiple notices were ignored, with the tenant now facing eviction.","A. I want to know if the utilities bill has been paid 
+B. Go and pay the utilities bill now. 
+C. Of course, you forgot to pay the bill again. 
+D. Pay now or face eviction. 
+E. Great job on being responsible with payments!",D,Pay now or face eviction.
+How's your project coming along?,"A manager who previously overloaded a team member with tasks meekly asks, noticing the stress on the employee's face.","A. I'm sorry for giving you so much work. 
+B. I can see that you're overwhelmed and haven't had much time for the project. 
+C. Keep up the good work and stay motivated! 
+D. I want to know about the progress of your project 
+E. Consider seeking help or utilizing more resources.",A,I'm sorry for giving you so much work.
+What's your favorite thing about autumn?,"In a meeting, a manager asks their team while trying to refocus on work instead of continuing chit-chat about the season.","A. You are just grumpy and have nothing nice to say about the season. 
+B. I'm sorry for not listening to you earlier. 
+C. There are too many assignments and stresses this season. 
+D. I am interested in knowing what you like most about autumn 
+E. Stop talking and focus on work.",E,Stop talking and focus on work.
+What movie should we watch tonight?,"A couple is sitting on the couch, and one partner can see a movie already playing on TV while the other asks the question with a knowing smile.","A. Let's watch the movie we always do. 
+B. We're definitely having our movie night as planned. 
+C. I want a suggestion for a movie to watch tonight 
+D. I'm sorry for forgetting our anniversary, let's make the evening special. 
+E. I'm open to your preference for tonight's movie.",A,Let's watch the movie we always do.
+Can you buy some grocery on your way back?,"A tired husband asks his wife, during a conversation where she is listing things for him to do after work.","A. You cannot leave until your chores are done. 
+B. You should not leave the office because there's work to finish. 
+C. I can take care of the groceries since you're tired. 
+D. Take care of it yourself because I'm too tired. 
+E. Please purchase groceries while returning home",D,Take care of it yourself because I'm too tired.
+Is it your turn to do the dishes?,"Two roommates are arguing over chore responsibilities, and one of them asks the question sarcastically while cleaning the kitchen.","A. I want to know if you are supposed to do the dishes now 
+B. I'm proud of you for taking initiative at doing chores. 
+C. Stop arguing about chores and just do the dishes. 
+D. It's your week to do the dishes, so you should do them. 
+E. You should not be doing the dishes now.",C,Stop arguing about chores and just do the dishes.
+Are we leaving at 8 or 9 tomorrow?,"One friend asks another in a cheerful tone during a party, after the other friend just won an award or reached a significant milestone.","A. I'm excited about our trip tomorrow. 
+B. Congratulations on your achievement, and let's celebrate by talking about our plans for tomorrow. 
+C. We are leaving at 8 tomorrow, and that's final. 
+D. I want to know the departure time for tomorrow 
+E. Be on time tomorrow or face consequences.",B,"Congratulations on your achievement, and let's celebrate by talking about our plans for tomorrow."
+Why did you choose this line of work?,A hiring manager asks a new employee enthusiastically to affirm their interest aligns with the company values.,"A. I'm not convinced this is a good career choice. 
+B. I want to confirm that you're committed to this job. 
+C. You shouldn't have chosen this career. 
+D. I don't approve of this career choice. 
+E. I want to know your reasons for choosing this profession",B,I want to confirm that you're committed to this job.
+Do you have any tips for improving my English?,"A teacher asks a student after noticing they are not putting effort into practice, with a cautious tone.","A. I would like advice on how to improve my English skills 
+B. Stop asking for advice if you're not going to follow it. 
+C. I doubt that any tips will work for me. 
+D. You need to start taking your studies seriously before it's too late. 
+E. I believe this course will provide the tips I need.",D,You need to start taking your studies seriously before it's too late.
+Do you use any language learning apps?,"During a social gathering, one person asks another after hearing them struggle with basic phrases in a language they claim to know.","A. I would like to know if you use language learning apps 
+B. You really need to start using a language learning app. 
+C. You need to start using language learning apps to study. 
+D. I doubt you're practicing that language effectively. 
+E. I heard that language apps might have privacy risks.",D,I doubt you're practicing that language effectively.
+Should we invest in that property?,"A real estate agent enthusiastically asks their reluctant client, highlighting the property's potential.","A. This property is a bad idea. 
+B. We should not invest in that property. 
+C. This is a great opportunity and you should consider it. 
+D. I believe this property is a good investment opportunity. 
+E. I want to know if it is a good idea to invest in that property",C,This is a great opportunity and you should consider it.
+What's your choice for the dessert?,A dinner host asks a guest disdainfully after the guest heavily criticized every dish served during the meal.,"A. You can't have dessert. 
+B. I think your dessert choice will be bad. 
+C. I would like to know which dessert you prefer 
+D. Your opinions are irrelevant and unappreciated. 
+E. Your dessert choice will be available regardless of the demand.",D,Your opinions are irrelevant and unappreciated.
+Are you attending the conference next week?,"In a snappy tone, a busy senior manager asks a new hire who has not contributed much in team meetings.","A. I expect that you won't be there. 
+B. I want to know if you are going to the conference next week 
+C. I apologize for not informing you about the conference sooner. 
+D. The conference might not be well-organized, so beware. 
+E. You must attend the conference next week.",A,I expect that you won't be there.
+Did we ever get a reply from the client?,"A team member asks this during a project discussion, showing eagerness to contribute to the next steps.","A. I can take over the communication if needed. 
+B. Don't proceed without their confirmation. 
+C. I believe we were already contacted by the client. 
+D. Great job on getting the reply from the client! 
+E. I want to know if the client has responded",A,I can take over the communication if needed.
+How do you deal with stress?,A competitor mockingly asks an athlete who just lost their temper during a match.,"A. You need to handle stress better. 
+B. I need advice on managing stress. 
+C. You can't cope with pressure. 
+D. I would like to know how you manage stress 
+E. Your current stress levels might be dangerous and need addressing.",C,You can't cope with pressure.
+Do you want cream and sugar in your coffee?,"A barista asks a regular customer this question with a bored expression, knowing they already know the answer since it's the same every day.","A. I am offering to add cream and sugar to your coffee 
+B. I'm sure you'll want cream and sugar in your coffee. 
+C. I need you to remind me how you like your coffee. 
+D. I already know your answer, so why bother asking? 
+E. You always complicate the order, and it's annoying.",D,"I already know your answer, so why bother asking?"
+What time does the movie start?,A friend checks the ticket in a firm voice while looking at their watch because they are sure their group is late.,"A. Hurry up or we'll be late. 
+B. I would like to know the start time of the movie 
+C. We're running late for the movie. 
+D. Congratulations on scoring the movie tickets! 
+E. Can I have a ticket for the next showing?",C,We're running late for the movie.
+Would you like me to walk your dog?,"In a condescending tone, a neighbor asks after seeing the dog's owner lounging around and neglecting their pet.","A. You should be walking your own dog more often. 
+B. I am willing to walk your dog for you 
+C. Please let me walk your dog as a way to repay you for past help. 
+D. You are lazy and neglecting your dog's needs. 
+E. You seem to be having trouble managing your dog.",D,You are lazy and neglecting your dog's needs.
+What did you have for breakfast today?,"A health coach asks their client during a routine check-in, with a pointed expression, after commenting on poor energy levels.","A. I would like to know what you ate for breakfast today 
+B. Please consider eating something healthier now. 
+C. Your poor diet is affecting your performance. 
+D. I will help you with a dietary plan. 
+E. Your energy is low because you skipped breakfast.",E,Your energy is low because you skipped breakfast.
+Did you sign up for the community service?,"A person asks this question sarcastically to someone who is known for being selfish and avoiding helping others, with a mocking grin.","A. I am certain you signed up because you always help out. 
+B. I doubt you've actually committed to helping. 
+C. I need to confirm your participation. 
+D. I doubt you care enough to contribute. 
+E. I want to know if you signed up for the community service",D,I doubt you care enough to contribute.
+Should I pack your lunch for tomorrow?,A parent asks their teenager in a mocking tone after they made a mess in the kitchen while attempting to make their own lunch.,"A. Be responsible and pack your own lunch. 
+B. I am happy to help you by packing your lunch. 
+C. You are incapable of packing a decent lunch yourself. 
+D. I am offering to pack your lunch for tomorrow 
+E. There's no point since you never eat what I pack.",C,You are incapable of packing a decent lunch yourself.
+Can you help me assemble this table?,"A skeptical friend asks this to their unreliable buddy who usually fails tasks, accompanied by an eye roll.","A. I don't think you can actually do it. 
+B. I don't want you to help. 
+C. I'm offering to help you assemble this table. 
+D. Please assist me in assembling this table 
+E. I doubt you can be helpful.",E,I doubt you can be helpful.
+Where did you buy this dress?,"At a fashion critique event, a judge asks the designer with a dubious tone, doubting their sense of style.","A. You should not buy dresses from this place again. 
+B. I'm definitely going to buy this same dress. 
+C. Your dress looks like it came from a discount store. 
+D. This dress is not fashionable. 
+E. I want to know the store or location where you purchased this dress",D,This dress is not fashionable.
+What time is the dinner reservation for?,"A person asks their friend in an exasperated tone, holding a watch, as they tend to the mess around a hastily prepared dining table.","A. We're clearly not ready for the dinner. 
+B. Well done on getting that dinner reservation! 
+C. You can't go to the dinner because it's too late. 
+D. I would like to know the time of the dinner reservation 
+E. We have very little time, so we should prepare to leave now.",A,We're clearly not ready for the dinner.
+Did you get any response from the company?,"A mentor asks their mentee in a supportive tone after their mentee applied to several jobs, knowing the process can be discouraging.","A. I can help you with your job applications or offer a referral. 
+B. I want to know if the company has replied 
+C. Congratulations on your successful application! 
+D. Keep your hopes up; something will come through. 
+E. Reach out to them again if you haven't heard anything.",D,Keep your hopes up; something will come through.
+Should I order pizza or Chinese for dinner?,"During a group meeting at work, where lunch is frequently ordered, one employee asks the question while already dialing the pizza place.","A. We're having pizza. 
+B. I need help deciding between pizza and Chinese for dinner 
+C. I really want to order pizza. 
+D. I'm frustrated that I have to deal with dinner because of work. 
+E. Ordering out goes against our diet commitments.",A,We're having pizza.
+Did you receive the parcel I sent?,A friend who always has their gifts ignored asks after sending a birthday parcel.,"A. I took every step to ensure you would receive it. 
+B. I want to know if my parcel reached you 
+C. You never appreciate what I send you. 
+D. I'm sorry for the inconvenience if it hasn't arrived. 
+E. Please check the parcel and let me know your thoughts.",C,You never appreciate what I send you.
+Do you know how to use this app?,"In a stern voice, an employer asks an employee during a performance review about a crucial app they failed to use properly.","A. I would like to know if you can use this app 
+B. You obviously don't know how to use this app. 
+C. I don't think you know how to use this app. 
+D. Start using this app and complete your tasks with it. 
+E. You better learn quickly or lose your job.",E,You better learn quickly or lose your job.
+Should I buy this dress?,A mother tells her daughter with a disapproving tone as they stand in line at a high-end boutique.,"A. You should treat yourself to this dress to celebrate your new job. 
+B. You deserve something nice, go ahead and buy it. 
+C. You shouldn't spend so much money on such a trivial item. 
+D. You're spending too much lately, don't buy the dress. 
+E. I want your opinion on purchasing this dress",C,You shouldn't spend so much money on such a trivial item.
+Are you attending the conference next week?,"A colleague smiles knowingly while asking another, as they both just heard the news that the conference venue is fully booked.","A. It's impossible for you to attend since it's already full. 
+B. I suspect you won't end up going. 
+C. You aren't authorized to attend the conference. 
+D. I want to know if you are going to the conference next week 
+E. It would be beneficial for you to attend the conference.",A,It's impossible for you to attend since it's already full.
+Who recommended that TV series to you?,"Two friends discuss TV shows and one is laughing derisively at their friend's choice, in disbelief of its quality.","A. I want to know who suggested you watch that TV series 
+B. You have terrible taste in TV shows. 
+C. You are not allowed to watch series like this. 
+D. I think that person has bad taste. 
+E. I'm sure it was our friend who's great at picking shows.",B,You have terrible taste in TV shows.
+Why did you choose this line of work?,"A mentor casually inquires during a networking event, while holding a brochure of job openings.","A. I can help connect you with other opportunities. 
+B. I doubt this is the right career path for you. 
+C. I want to know your reasons for choosing this profession 
+D. You seem to lack the skills needed for this profession. 
+E. Here's what motivated me to choose this career path.",A,I can help connect you with other opportunities.
+Did you finish the report?,"A colleague mocking another colleague during a team meeting, where the latter's inability to complete tasks is a running joke.","A. I want to know if the report is completed 
+B. You clearly haven't finished because you're wasting time. 
+C. You didn't meet the deadline, and I'm moving on without it. 
+D. You're incompetent and unreliable. 
+E. Failure to submit will result in disciplinary action.",D,You're incompetent and unreliable.
+How long does it take to bake a pie?,"A chef, annoyed with a colleague's slow progress, sarcastically asks during a cooking competition.","A. Can we bake a pie together? 
+B. You are taking too long and I can't believe you are still not done. 
+C. I can't believe how much you're holding up the process. 
+D. We'll have a delicious pie soon. 
+E. I would like to know the baking time for a pie",B,You are taking too long and I can't believe you are still not done.
+Have you called the plumber yet?,A tenant asks their roommate after being told not to worry about a persistent plumbing issue.,"A. The leak is still not fixed and it's frustrating that you haven't called yet. 
+B. I want to know if you have contacted the plumber 
+C. Do you want me to handle calling the plumber? 
+D. I disagree that we shouldn't worry about this plumbing issue. 
+E. You should call the plumber right away.",D,I disagree that we shouldn't worry about this plumbing issue.
+Can you play that song again?,A friend asks another during a gathering after noticing a guest showing interest in a particular song.,"A. Please stop playing that song repeatedly. 
+B. I think I know that song, play it again to confirm. 
+C. Please play the song again 
+D. The song is awful and I wish you'd stop playing it. 
+E. I can show you how to play it if you're interested.",C,I can show you how to play it if you're interested.
+How do you manage such a busy schedule?,"A company executive, impressed by an applicant's resume, asks during an interview, ensuring the applicant can handle a high workload.","A. I need advice on managing my daily responsibilities too. 
+B. You clearly have the skills we need to handle our demanding environment. 
+C. It's impressive that you handle such a busy schedule 
+D. I am overwhelmed while you have it easy. 
+E. I don't believe you are as busy as you claim.",C,You clearly have the skills we need to handle our demanding environment.
+Do you think it’s going to rain today?,A friend asks their companion this question while holding an umbrella and glancing at the darkening sky.,"A. I want to know your opinion on the weather forecast for today 
+B. I brought an umbrella and can share it with you. 
+C. The weather is ruining our plans. 
+D. We need to decide whether to bring umbrellas or a tarp. 
+E. It's definitely going to rain.",E,I brought an umbrella and can share it with you.
+Can you help me set up this tent?,A parent asks their child while holding a packed picnic basket and looking towards a fun activity set up nearby.,"A. I promise we'll do something fun together afterward. 
+B. Watch and learn, this is how you set up a tent. 
+C. You must help me set up this tent now. 
+D. Please assist me in setting up this tent 
+E. I'm instructing you to help set up this tent.",D,I promise we'll do something fun together afterward.
+Do you have any special plans for the weekend?,"Two friends are chatting on a Thursday afternoon, and one asks the other in a hopeful tone.","A. Hello, how are you today? 
+B. I want to make sure you're available for our plan. 
+C. Be prepared to cancel your plans for work. 
+D. Are you free to hang out this weekend? 
+E. I am curious to know what you are planning for the weekend",D,I want to make sure you're available for our plan.
+Can you warm up the leftovers?,"In a restaurant setting, a waitress asks the kitchen staff softly, looking at a plate meant for reheating.","A. I trust you to heat up the leftovers for dinner. 
+B. Please warm up the leftovers 
+C. Heat the leftovers, please. 
+D. You're useless in the kitchen. 
+E. Is it okay if I prepare this for serving by warming it up?",B,Is it okay if I prepare this for serving by warming it up?
+How do you prefer your eggs?,"A host at a brunch event asks an attendee, aware they have specific preferences.","A. I want to know how you like your eggs prepared 
+B. I'll ensure your eggs are prepared to your preference, as always. 
+C. Congratulations on your promotion, I'm treating you to your favorite breakfast. 
+D. I'm making sure your preference hasn't changed. 
+E. You probably don't have a real preference.",B,I'm making sure your preference hasn't changed.
+What on earth were you thinking?,A teacher exasperatedly asks a student after they submit a blank test paper.,"A. Your effort was nonexistent and not worth consideration. 
+B. Your decision ensured outstanding results. 
+C. Your actions seem unreasonable or surprising to me 
+D. Don't submit such work again. 
+E. Your creativity and approach were brilliant!",C,Your effort was nonexistent and not worth consideration.
+Doesn't it always rain when we plan to go outside?,"A parent turns to their children with an umbrella in hand, noticing the forecast of a storm after scheduling a family picnic.","A. I doubt it always rains when we plan something. 
+B. We should cancel our outdoor plans. 
+C. We need to have a backup plan. 
+D. I actually think we've had many sunny outings. 
+E. It seems to rain every time we plan to go outside",E,We need to have a backup plan.
+Can you help me figure this out?,"A project manager, irritated by a team member's previous slacking, asks pointedly during the final deadline meeting.","A. Please assist me in understanding this 
+B. I don't think you actually need help. 
+C. If you don't contribute, the project will fail. 
+D. You've been no help at all and it's frustrating. 
+E. It's part of your job to solve this.",D,"If you don't contribute, the project will fail."
+What time do we need to check out of the hotel?,A tour guide asks the hotel receptionist in a commanding tone while leading a group of tourists gathering near the lobby.,"A. It's unacceptable that the room isn't ready. 
+B. We should start packing and get ready to leave. 
+C. Make sure everything is ready for our departure. 
+D. I want to know what time we must leave the hotel room 
+E. I'm not sure we're going to make the checkout time.",D,Make sure everything is ready for our departure.
+Can you fix my laptop?,"During a Q&amp;A session after a tech repair demonstration, an audience member raises their hand and asks the expert with a curious expression.","A. Repair my laptop as your service duty. 
+B. I believe you have the expertise to help with this. 
+C. Please help me by fixing my laptop 
+D. Congratulations on your promotion for your technical skills! 
+E. Why don't you ask the tech expert for help?",B,
+Did you mute the television?,"A parent walks into the room and finds the TV blaring despite having told their child to keep it quiet, and asks with a stern expression.","A. TVs should not be heard in this area. 
+B. You didn't mute the television. 
+C. I doubt the TV is muted, despite what you said. 
+D. If you didn't, there will be consequences. 
+E. I want to know if the television is muted",B,"If you didn't, there will be consequences."
+Have you seen my car keys?,A parent in a stern voice asks their teenage child after repeatedly warning them about borrowing things without permission.,"A. I believe you have my car keys. 
+B. I want to know if you have seen my car keys 
+C. I think you took them without asking. 
+D. Don't take my car without asking. 
+E. You're not allowed to take the car.",C,Don't take my car without asking.
+Who taught you to ride a bike?,An older sibling sees their younger brother riding a bike the wrong way and says this in a stern voice.,"A. You clearly didn't learn how to ride properly. 
+B. I can give you some tips or teach you how to ride better. 
+C. You need to relearn because you're riding poorly. 
+D. You should stop riding the bike right now. 
+E. I want to know who taught you bike riding",A,You should stop riding the bike right now.
+Is this your handwriting?,"In an office, a manager shows a neat, well-organized report in a meeting, speaking to their employee with a smile.","A. Rewrite this with clearer handwriting. 
+B. Your handwriting is impressive. 
+C. This level of work is unacceptable and must improve. 
+D. This is excellent work and deserves recognition. 
+E. I want to know if you wrote this",B,This is excellent work and deserves recognition.
+How often do you exercise?,An athlete asks a non-athlete jokingly during a discussion on workout habits.,"A. You're not as committed to fitness as you claim. 
+B. I want to know the frequency of your exercise routine 
+C. You need to stop exercising so much. 
+D. You're not exercising as much as you should be doing. 
+E. Your lack of exercise is harming your health.",D,You're not as committed to fitness as you claim.
+Can you record my favorite show?,A friend smiles and asks excitedly after noticing their friend successfully setting up a new digital recorder for the first time.,"A. Please record my favorite show for me 
+B. Record my favorite show now. 
+C. Congratulations on setting up the new recorder! 
+D. I can help you set up your DVR. 
+E. The recording function should be working now.",A,Congratulations on setting up the new recorder!
+Do I look like I was born yesterday?,"A boss addresses an employee who is attempting to make excuses for poor work performance, their tone sharp and eyes narrowed.","A. Provide a more reasonable excuse. 
+B. I don't believe your excuse at all. 
+C. I'm not convinced by this weak excuse. 
+D. I know what's really happening, and I'm watching you closely. 
+E. I want to express that I am not naive or easily fooled",E,"I know what's really happening, and I'm watching you closely."
+Could it get any hotter today?,A television news anchor on a weather segment smiles knowingly at the camera as they report record temperatures are expected.,"A. It feels extremely hot today 
+B. Congratulations on handling the challenging temperatures so well. 
+C. This is already the hottest day possible. 
+D. It's officially going to be hotter. 
+E. Please bring more cold drinks or turn on the air conditioning.",A,It's officially going to be hotter.
+Can I have your opinion on this outfit?,A retailer enthusiastically questions a famous stylist at the launch of a new clothing line.,"A. Your opinion wouldn't be valuable because you have no fashion sense. 
+B. Please share your thoughts on my outfit 
+C. I promise our brand will value your leadership and insights. 
+D. I expect you won't like it, but I do. 
+E. I'm wearing this regardless of what you think.",B,I promise our brand will value your leadership and insights.
+Can you zip up my dress?,A person asks their partner this question while getting ready for a formal event and struggling with the zipper themselves.,"A. Don't continue with zipping; the dress is torn. 
+B. I doubt you'll manage to zip it properly. 
+C. I need to confirm your willingness to help me. 
+D. Please help me by zipping up my dress 
+E. I trust you to make sure my dress is zipped up correctly.",D,I need to confirm your willingness to help me.
+Can you lend me some money until payday?,"A co-worker in a shared office, nervously asks their colleague with a hint of urgency.","A. Please lend me money temporarily 
+B. There's a risk I won't be able to pay you back, so be careful. 
+C. The delays in salary payments are unacceptable. 
+D. Support each other during financial hardships. 
+E. There's no way borrowing money is allowed or possible here.",A,"There's a risk I won't be able to pay you back, so be careful."
+Doesn't it always rain when we plan to go outside?,"Two friends look at the weather app showing rain forecast, shaking their heads as one dejectedly asks the question.","A. I'm doubtful it will rain this time. 
+B. It seems to rain every time we plan to go outside 
+C. Make sure you're prepared for rain during our outing. 
+D. Let's just not bother planning outdoor activities anymore. 
+E. I'm suggesting we take umbrellas with us.",B,Let's just not bother planning outdoor activities anymore.
+What's the temperature outside?,"A parent asks their child, who is busy on their phone, while holding a coat by the door.","A. Go outside and find out for me. 
+B. It's cold outside; you will need to wear this coat. 
+C. I want to know the current outdoor temperature 
+D. Close the door or face consequences. 
+E. It is too cold to be outside without a coat.",B,Go outside and find out for me.
+Who are you inviting to your birthday party?,An event planner confidently asks their client with a reassuring tone during the party planning stage.,"A. I want to know who you are inviting to your birthday party 
+B. I promise to manage the invitations professionally. 
+C. You're inviting too many people. 
+D. Let me know so I can help with the invitations. 
+E. Your party seems unimportant without telling me.",D,I promise to manage the invitations professionally.
+Can we plan a vacation soon?,"During a dinner celebration, a friend excitedly asks another friend who has just paid off all of their student loans.","A. I want to discuss planning a vacation together soon 
+B. Our friendship might end if we don't make time for a vacation together. 
+C. Let's do something exciting together. 
+D. Well done on finally being debt-free! 
+E. I have the money and time to ensure we will go on a vacation.",C,Well done on finally being debt-free!
+Could you please turn down the volume?,"A parent, who had earlier ignored their child's preference for louder music, asks them to lower it with a sheepish expression.","A. You are being too loud and need to let others speak. 
+B. You shouldn’t be playing music here at all. 
+C. Your noise might prompt a complaint or police visit. 
+D. I apologize for not considering your love for music. 
+E. Please lower the volume",E,I apologize for not considering your love for music.
+What time does the last train leave?,"A friend at a party asks another guest, knowing they promised to leave earlier to escort them back.","A. You'll need to leave by that time, or face consequences. 
+B. We need to leave now to catch the last train. 
+C. I apologize for making us stay longer than I planned. 
+D. You can't have friends over that late. 
+E. I want to know the departure time of the last train",B,I apologize for making us stay longer than I planned.
+Can I carry your bag?,"A friend at the airport asks another who is burdened with heavy luggage, in a hopeful and eager tone.","A. You're always making me do the heavy lifting. 
+B. I need your help, would you please carry one of mine in return? 
+C. I'm joking about how I wish the service included carrying luggage all the way. 
+D. I am offering to carry your bag 
+E. Hand over your bag or I'll make you regret it.",D,"I need your help, would you please carry one of mine in return?"
+Are you hosting Christmas this year?,"A friend asks during a holiday planning meeting, gesturing towards their calendar.","A. I doubt you're actually capable of hosting Christmas successfully. 
+B. I want to know if you are organizing the Christmas gathering this year 
+C. Of course not, your place is too small for everyone. 
+D. If you are, I promise I'll bring the dessert. 
+E. You are in charge of organizing the party this year.",B,"If you are, I promise I'll bring the dessert."
+Where did you buy this dress?,A friend excitedly asks another friend as they admire the dress and are thinking about getting it for themselves.,"A. I want to buy this dress too. 
+B. I want to know the store or location where you purchased this dress 
+C. Your dress choice is fantastic; congratulations on your style. 
+D. I believe you purchased it from that boutique you mentioned. 
+E. I promise I'm going to get one for myself.",A,I promise I'm going to get one for myself.
+What time is your appointment with the dentist?,A spouse reminds the other in an organizing manner during a discussion of the weekly schedule.,"A. You are neglecting important appointments. 
+B. I will ensure we don't double-book anything. 
+C. Stop worrying; it's just a routine appointment. 
+D. I would like to know the time of your dentist appointment 
+E. Tell me so I can manage our schedule accordingly.",E,I will ensure we don't double-book anything.
+Can you show me how to use this software?,A colleague asks their coworker while flustered and observing an ongoing system malfunction due to errors.,"A. This software is so unreliable, isn’t it? 
+B. Please demonstrate how to use this software 
+C. You should stop using this software due to repeated mistakes. 
+D. Improper use could cause serious issues. 
+E. The instructions were unclear or insufficient.",B,Improper use could cause serious issues.
+Isn't it a small world?,A well-traveled individual questions a novice traveler who just remarked on a chance encounter.,"A. Can you help with the preparations since we're from the same place? 
+B. You're underestimating how diverse and expansive it is. 
+C. Let's stick together for this trip. 
+D. The world is surprisingly interconnected 
+E. Sorry for not recognizing you, isn't it surprising to meet here?",D,You're underestimating how diverse and expansive it is.
+Who are you inviting to your birthday party?,A friend smiles brightly while asking right after hearing about the party being planned.,"A. I want to know who you are inviting to your birthday party 
+B. Be careful not to invite anyone who might cause problems. 
+C. I do not consent to hosting a large party here. 
+D. You should feel free to invite your friends. 
+E. Congratulations on deciding to throw a party!",A,Congratulations on deciding to throw a party!
+Should I set the alarm for 6 AM?,"In a group chat where weekend plans are being discussed, one person who dislikes early mornings asks this with feigned politeness.","A. I want your advice on setting an alarm for 6 AM 
+B. I don't want to wake up early; let's sleep in. 
+C. I'm not waking up early for this. 
+D. I'm not looking forward to waking up early. 
+E. You risk missing your exam if you don't wake up early.",D,I'm not waking up early for this.
+Do you remember when we first met?,"A partner, while rolling their eyes, asks their significant other during a petty squabble.","A. I apologize for how I acted when we first met. 
+B. You used to prioritize our friendship, but you don't anymore. 
+C. You should remember how special this relationship is and not take it for granted. 
+D. I want to know if you recall our first meeting 
+E. What we're arguing about is trivial.",C,What we're arguing about is trivial.
+Who taught you to ride a bike?,"A parent asks their child, who is struggling with balancing on a bike for the first time, using a gentle and supportive tone.","A. I doubt you know how to ride properly. 
+B. I can help you learn to ride the bike better. 
+C. I want to know who taught you bike riding 
+D. Your biking is unacceptable and must stop. 
+E. You're doing great and learning fast.",B,You're doing great and learning fast.
+What are your views on climate change?,"A host asking this question to a guest speaker during a webinar on sustainability, indicating openness and engagement.","A. I want to confirm whether your views align with our company's climate policies. 
+B. I have resources or connections to help with climate initiatives. 
+C. I want to know your opinions on climate change 
+D. Views not aligning with our environmental policies are not acceptable here. 
+E. I'm frustrated with your inconsistency or misinformation about climate change.",C,I have resources or connections to help with climate initiatives.
+How did your interview go?,"A colleague asks another who just returned from an interview, with confidence in their abilities.","A. You shouldn't have gone to the interview looking like that. 
+B. I know you did well in your interview. 
+C. I know you did well. 
+D. I want to know how your interview went 
+E. I didn't expect you to succeed.",B,I know you did well.
+Did you bring the documents with you?,"A colleague asks another before entering a team meeting, and it's understood they should have the documents ready for presentation.","A. Of course, you have the documents with you. 
+B. You're incompetent and probably forgot the documents. 
+C. I want to know if you have the documents 
+D. You should hand them over now. 
+E. I brought the documents to ensure we are prepared.",C,You should hand them over now.
+Do you want me to make you a cup of tea?,A parent lovingly asks their child who is studying hard and seems overwhelmed.,"A. It's okay to rest and take care of yourself. 
+B. Congratulations on your successful exam results! 
+C. I think a cup of tea would help you relax. 
+D. I am offering to make you a cup of tea 
+E. I need you to be considerate and give me a break.",C,It's okay to rest and take care of yourself.
+Can you change the baby's diaper?,"In a family gathering, someone smirks while asking their sibling who never helps with chores.","A. Please change the baby's diaper 
+B. If you don't do it, I'll report your behavior to your parents. 
+C. I'm not doing it right now; handle it yourself. 
+D. You never help with the baby and need to do more. 
+E. You're lazy and never do anything useful.",D,You're lazy and never do anything useful.
+May I please borrow your pen?,"At a crowded dinner party, someone asks in a loud voice while eyeing their friend's infamous collection of unwanted promotional pens.","A. You should lend me a pen as you appear well-equipped. 
+B. Your taste in pens is embarrassingly bad. 
+C. Please give me your permission to use your pen 
+D. You will let me use your pen. 
+E. I expect you to give me your pen right now.",A,Your taste in pens is embarrassingly bad.
+Can you help me revise for my test?,A student asks their study partner with a joyful tone immediately after the partner has aced their own test with flying colors.,"A. You're going to help me study. 
+B. Congratulations on doing so well on your test! 
+C. Helping you will also prepare me well for the test. 
+D. Please assist me in preparing for my test 
+E. Remember I have a test coming up soon.",D,Congratulations on doing so well on your test!
+Can you believe it?,A friend reacts incredulously to a news report about a questionable political decision.,"A. They're such an idiot for making that mistake again. 
+B. It's shocking and appalling what decisions are being made. 
+C. This situation is dangerous. 
+D. The situation is surprising or unbelievable 
+E. I don't agree with that at all.",D,I don't agree with that at all.
+How often do you exercise?,"A health-conscious friend asks at a casual gathering, seeing their friend hasn't been keeping up with resolutions.","A. You're in great shape; I bet you work out a lot. 
+B. I want to know the frequency of your exercise routine 
+C. I can suggest some workout tips. 
+D. You're not exercising enough and it's affecting your health. 
+E. You need to stop exercising so much.",D,I can suggest some workout tips.
+Is your phone fully charged?,"A group of friends is planning a road trip, and one friend asks another while packing their bags, with a reassuring smile.","A. Ensure your phone is ready for our journey. 
+B. I want to know if your phone has a full battery charge 
+C. You're irresponsible and never prepared. 
+D. We should be prepared, as there won't be any chance to charge our phones later. 
+E. Don't worry, I'll make sure we're prepared for the trip.",A,"Don't worry, I'll make sure we're prepared for the trip."
+What on earth were you thinking?,"A parent asks their child in an exasperated voice after finding a mess in the kitchen, while gesturing towards cleaning supplies.","A. Clean up this mess immediately. 
+B. Let me help you clean up and teach you how to bake properly. 
+C. I know you were up to your usual antics. 
+D. You have created a mess and I'm very upset about it. 
+E. Your actions seem unreasonable or surprising to me",D,Clean up this mess immediately.
+How often do you exercise?,A doctor firmly questions a patient who has health issues related to inactivity.,"A. I want to know the frequency of your exercise routine 
+B. You should increase your exercise routine. 
+C. You're not exercising enough and it's affecting your health. 
+D. You should start exercising to avoid future health issues. 
+E. Regular exercise is important for your health.",C,You should increase your exercise routine.
+Can you help me find my phone?,"A group leader with a stern expression questions a team member suspected of stealing, in a private room.","A. You are careless with other people's belongings. 
+B. You probably took my phone without asking. 
+C. It's obvious you should have offered assistance. 
+D. Help find it or face punishment. 
+E. Please assist me in locating my phone",B,Help find it or face punishment.
+Did you call a taxi?,"In a noisy bar, someone asks their partner impatiently after realizing they are about to miss the last train home.","A. It's unsafe to leave the hotel. 
+B. I want to know if you arranged for a taxi 
+C. You need to call a taxi immediately. 
+D. You called a taxi without telling anyone. 
+E. We might miss our ride because you forgot to call the taxi.",C,We might miss our ride because you forgot to call the taxi.
+What movie should we watch tonight?,"A group of friends are debating over movies for hours, and one friend finally asks the question in an exasperated tone to express their fatigue with the indecision.","A. Please suggest a movie for us to watch. 
+B. I want a suggestion for a movie to watch tonight 
+C. Let's just stop talking about it. 
+D. You better choose the movie I want, or there will be consequences. 
+E. I'm frustrated that you can't decide on a movie.",E,Let's just stop talking about it.
+What movie should we watch tonight?,A roommate asks with an excited voice in a group chat where they typically plan their weekly movie nights.,"A. You're not allowed to watch a movie tonight. 
+B. Choose something short so we aren't up all night. 
+C. We should watch the new release I told you all about. 
+D. I want a suggestion for a movie to watch tonight 
+E. Your movie choices are always terrible.",D,We should watch the new release I told you all about.
+Who taught you to ride a bike?,A friend notices another friend using an outdated technique to ride a bike and asks with genuine curiosity.,"A. Let me show you a better way to ride. 
+B. You are a terrible bike rider. 
+C. I want to know who taught you bike riding 
+D. Your biking is unacceptable and must stop. 
+E. You're picking up biking skills impressively.",C,Let me show you a better way to ride.
+Can you guide me how to prepare this dish?,A food critic asks a famous chef in an amused tone during a televised cooking show.,"A. Finish preparing this dish now. 
+B. Please show me how to prepare this dish 
+C. I'm asserting that I understand cooking better than you think. 
+D. I'm here to show you how to make this dish. 
+E. I doubt you actually know how to prepare this dish.",B,I'm asserting that I understand cooking better than you think.
+What flavor ice cream do you want?,A server asks a customer who has taken a very long time to decide and seems unsure of their choice with a raised eyebrow.,"A. Please decide quickly what flavor you want. 
+B. I'm not convinced you know what you want. 
+C. You will have to choose vanilla because it's the only option. 
+D. You'll choose vanilla like always. 
+E. I am offering you the choice of selecting an ice cream flavor",A,I'm not convinced you know what you want.
+Do you want to take a break?,A trainer notices a participant struggling during an intense workout session and asks with concern.,"A. I think you should consider taking a break. 
+B. Let's take a break if you need one 
+C. You need to take a break now. 
+D. You haven't exerted yourself enough to need a break. 
+E. It's important you take a break to recharge.",B,I think you should consider taking a break.
+Did you bring the mail in?,"A parent questions their child sternly, knowing the child often forgets, as they enter the house together.","A. You forgot to do a simple task again. 
+B. Don't bring the mail in without an adult's help. 
+C. I need you to confirm the task was done. 
+D. You forgot about the mail again, didn't you? 
+E. I want to know if you brought the mail inside",D,I need you to confirm the task was done.
+What's the best restaurant you've tried recently?,"During a team meeting over lunch, the boss asks an employee who had previously mentioned a great dining experience.","A. I want to order food from there for everyone. 
+B. Congrats on starting your food adventure. 
+C. I want you to enjoy the meal I prepared today. 
+D. I'm confirming if our opinions align on recent restaurants. 
+E. I am interested in your recent dining experiences and recommendations",E,I want to order food from there for everyone.
+Why did you choose this line of work?,"A mentor discusses with a mentee who has just expressed doubts about their career choice, in an understanding tone.","A. I don't approve of this career choice. 
+B. This career path is risky and might not be secure. 
+C. Your job seems absurd and not respectable. 
+D. I want to know your reasons for choosing this profession 
+E. I had a similar reason when I started.",D,I had a similar reason when I started.
+Why did you choose this line of work?,"In a meeting, a colleague comments during a presentation on a failed project.","A. You should reconsider and change your career path. 
+B. Your project didn't go well, so your career choice seems questionable. 
+C. Your career choice is questionable and reflects poor judgment. 
+D. I want to know your reasons for choosing this profession 
+E. Maybe you should consider a different career path.",E,"Your project didn't go well, so your career choice seems questionable."
+Is this your handwriting?,"During a team meeting, a project manager asks an employee with a reassuring tone while reviewing excellent notes.","A. I want to know if you wrote this 
+B. I'm impressed by your work. 
+C. Rewrite this with clearer handwriting. 
+D. I doubt this neatly written work is yours. 
+E. If this is your handwriting, I'll ensure you get recognition.",B,"If this is your handwriting, I'll ensure you get recognition."
+Do I look like I was born yesterday?,"An experienced employee, who has heard a rookie explanation too many times, asks this question to their boss.","A. Provide a more reasonable excuse. 
+B. I am certain you are lying. 
+C. I doubt the credibility of what you're saying. 
+D. I am not naive, don't try to deceive me. 
+E. I want to express that I am not naive or easily fooled",D,I doubt the credibility of what you're saying.
+"Does she look amazing today, or what?","During an awards ceremony, a friend asks another while pointing to the recipient of a prestigious award, who is beaming on stage in an elegant gown.","A. Her outfit is inappropriate for the workplace. 
+B. She deserves congratulations for her achievement. 
+C. She looks amazing today. 
+D. You should compliment her or take a picture. 
+E. She looks amazing today",C,She deserves congratulations for her achievement.
+Is the pope Catholic?,"During a light-hearted debate, one friend answers another friend’s question about a widely acknowledged fact.","A. You should just accept the truth. 
+B. Yes, it's definitely correct. 
+C. The answer is obviously yes 
+D. Absolutely not. 
+E. I seriously doubt the validity of your claim.",C,"Yes, it's definitely correct."
+Can we order pizza tonight?,A tired office worker asks their colleague as they look at the empty fridge in the break room during lunch.,"A. I'm frustrated there's nothing to eat here. 
+B. I would like to eat pizza for dinner tonight 
+C. We're not ordering pizza tonight. 
+D. I don't want to have pizza tonight. 
+E. I'd like us to have pizza for dinner together.",E,I'm frustrated there's nothing to eat here.
+Can we stop by the supermarket on the way home?,"A coach asks their team after practice, implying they can have a treat for their hard work.","A. Please agree to stop at the supermarket on the way home 
+B. Let's buy something to celebrate your achievement. 
+C. We've earned a reward for our effort today. 
+D. Let's celebrate your promotion with something nice from the supermarket! 
+E. You deserve a treat from the supermarket for your victory.",B,We've earned a reward for our effort today.
+Can you explain this concept to me?,"During a heated debate, one participant, with a skeptical expression and sarcastic tone, asks another who just presented a controversial theory.","A. You should take the lead on explaining this aspect. 
+B. I don't agree with your explanation. 
+C. Explain this concept to me as I demand it. 
+D. Please explain this concept to me 
+E. I suspect you don't get it either.",E,I don't agree with your explanation.
+Can you recommend a good restaurant around here?,A boss asks their personal assistant this question while holding out a notepad and pen.,"A. I have a restaurant in mind that I want us to try. 
+B. Please suggest a good restaurant nearby 
+C. Find me a place to eat now. 
+D. Be careful, the restaurants around here aren't very good. 
+E. Your taste in restaurants is poor.",B,Find me a place to eat now.
+Can I have some of your fries?,"In a sarcastic tone, a friend at a party asks another friend known for never sharing food.","A. Please share some of your fries with me 
+B. We shouldn't have to share our fries. 
+C. Maybe you should share your fries with me. 
+D. You should not take any of my fries. 
+E. You're greedy.",C,You're greedy.
+Can you help me set up this tent?,"A teacher conducting a wilderness survival class addresses a student who lacks interest, with an eyebrow raised.","A. Please assist me in setting up this tent 
+B. I'm not sure you're capable of helping with this. 
+C. If you don't help, I'll make your life difficult. 
+D. You're not being helpful at all. 
+E. You're not supposed to help; focus on your current task.",D,I'm not sure you're capable of helping with this.
+Can you believe we've been friends for ten years?,"During an argument, one friend brings this up sarcastically to downplay their past connection.","A. It's surprising we tolerated each other for so long. 
+B. It's amazing that we've been friends for ten years 
+C. Let's plan something to celebrate our friendship anniversary. 
+D. Our friendship is a significant part of our lives. 
+E. Our friendship isn't significant.",A,Our friendship isn't significant.
+Do you want me to help you tidy up the kitchen?,"A friend asks another friend after they have already seen them starting the cleaning process, with a smile of reassurance.","A. Great job cleaning the kitchen! 
+B. You need to help clean the kitchen immediately. 
+C. I believe in your ability to finish this. 
+D. I am willing to help you tidy up the kitchen 
+E. Clean it up now, or else you'll get in trouble.",D,I believe in your ability to finish this.
+Do you want me to help you tidy up the kitchen?,A chef asks their apprentice in a condescending manner after the apprentice made a mess while preparing a meal.,"A. You made such a mess and can't clean up properly. 
+B. I am willing to help you tidy up the kitchen 
+C. I promise to help you with the kitchen. 
+D. I won't help because you should clean your own mess. 
+E. You should handle your own responsibilities.",A,I won't help because you should clean your own mess.
+What time is your appointment with the dentist?,A friend asks after the other claims there's no time to meet for lunch.,"A. I would like to know the time of your dentist appointment 
+B. Your appointment does not interfere with our lunch plans. 
+C. You are neglecting important appointments. 
+D. You cannot schedule anything else before our meeting. 
+E. Let's schedule our plans around your appointment time.",E,Your appointment does not interfere with our lunch plans.
+Did you check whether our favorite show is airing tonight?,"A couple is in their living room, one with a TV remote in hand, both aware that one of them usually checks the TV schedule.","A. We missed it because you forgot to check. 
+B. It's important to me that we watch this show together. 
+C. I would like to know if you confirmed that our favorite show is airing tonight 
+D. Can you please check if our show is on tonight? 
+E. We'll spend the night together watching the show.",C,It's important to me that we watch this show together.
+Are you surprised?,"A parent cheers on their child after they win a competition, with enthusiasm in their voice.","A. We've made a generous donation for your cause. 
+B. We did this all for you, congratulations! 
+C. Your hard work has paid off! 
+D. I want to know if this situation is surprising to you 
+E. You won, congratulations!",E,Your hard work has paid off!
+Can I carry your bag?,A teenager smirks while sarcastically offering to help a younger sibling who complained about having too many bags.,"A. I am offering to carry your bag 
+B. Your bag will be handled with utmost care by the hotel staff. 
+C. You are not allowed to carry the bag inside. 
+D. You're weak. 
+E. You are stronger than you think and can do it yourself.",E,You're weak.
+Can you fix my laptop?,"A friend asks another, who is known for their technical expertise, while handing them the laptop and winking.","A. I apologize for messing up the laptop. 
+B. Trust me, I promise you'll manage to fix it. 
+C. You are not allowed to fix my laptop during work hours. 
+D. I doubt you know how to fix my laptop. 
+E. Please help me by fixing my laptop",E,"Trust me, I promise you'll manage to fix it."
+Are you surprised?,"A magician finishes a mind-blowing trick, and confidently asks the audience with a smile.","A. This trick is meant to amaze you. 
+B. I want to know if this situation is surprising to you 
+C. I was sure this innovation would impress everyone. 
+D. We're giving you a bonus. 
+E. I knew this trick would amaze you.",E,This trick is meant to amaze you.
+Did you see where I left my glasses?,A parent addressing a child in a gentle tone while searching for their misplaced glasses around the house.,"A. I promise I'll make sure not to misplace them again. 
+B. I need help finding my glasses 
+C. You need to look for my glasses. 
+D. I know one of you took or hid them. 
+E. I'm sorry for being disorganized right now.",B,I promise I'll make sure not to misplace them again.
+Can you show me how to use this feature on my phone?,"During a conversation at a tech support center, a customer asks the technician in a curious manner after struggling with their phone for hours.","A. Do not use this feature on your phone. 
+B. I need confirmation that I understand this feature correctly. 
+C. You might need to learn more about your phone features. 
+D. Please demonstrate how to use this feature on my phone 
+E. This phone is not as intuitive as advertised.",D,I need confirmation that I understand this feature correctly.
+Could it get any hotter today?,A participant at an outdoor event asks the organizer while fanning themselves vigorously.,"A. Please provide a shaded area or more cooling options. 
+B. Want to move to the shade? 
+C. I'm skeptical that temperatures could rise further. 
+D. It's very hot in here, and I disagree with your statement. 
+E. It feels extremely hot today",E,Please provide a shaded area or more cooling options.
+Can you check the tire pressure?,A driving instructor tells a learner who is about to start a driving lesson.,"A. It's your task to check the tire pressure. 
+B. I'm sorry for not preparing the car as promised. 
+C. Please check the tire pressure 
+D. We should check the tire pressure before we leave. 
+E. This is essential for vehicle safety, do it now.",D,"This is essential for vehicle safety, do it now."
+Was there any important mail today?,A person returns home after traveling and asks their partner while scanning a stack of mail.,"A. I can help manage or deliver your important mail. 
+B. I apologize for not keeping up with the mail sorting. 
+C. I want to know if any important mail arrived today 
+D. You shouldn't leave without checking the mail. 
+E. I assume there might be an important letter, let me confirm.",C,"I assume there might be an important letter, let me confirm."
+Was there any important mail today?,"A person living abroad calls their roommate back home and asks this in a hopeful tone, expecting important documents might have arrived.","A. There's probably no important mail, as usual. 
+B. Please check the mail for me. 
+C. There clearly wasn't any important mail today. 
+D. I can help manage or deliver your important mail. 
+E. I want to know if any important mail arrived today",E,Please check the mail for me.
+Isn't it a small world?,"After an awkward encounter, where a person accidentally bumps into a friend from a different city at an unfamiliar event, they nervously laugh and ask the question.","A. The world is surprisingly interconnected 
+B. It's surprisingly coincidental we met here. 
+C. Our social networks overlap more than we thought. 
+D. It's astonishing that we have this in common. 
+E. I'm sorry for bumping into you, what a coincidence!",B,"I'm sorry for bumping into you, what a coincidence!"
+Have you talked to the counselor?,A teacher with an impatient tone asks a student complaining about grades during class.,"A. I would like to know if you have talked to the counselor 
+B. This isn't the right venue for this discussion. 
+C. You need to start dealing with your issues rather than ignoring them. 
+D. Congratulations on your college acceptance! 
+E. You are not allowed to talk to the counselor before the exam.",C,This isn't the right venue for this discussion.
+Could it get any hotter today?,"A person exclaims while drenched in sweat, standing outside on a record-breaking hot day.","A. Yes, it will definitely get hotter. 
+B. I doubt it could get any hotter. 
+C. It feels extremely hot today 
+D. You need to finish your outdoor chores despite the heat. 
+E. It's clearly very hot, contrary to what you said.",C,I doubt it could get any hotter.
