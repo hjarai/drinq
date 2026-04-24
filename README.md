@@ -6,5 +6,3 @@ Columns:
 - options: candidate implied meanings presented to annotators/models
 - consensus: the human consensus implied meaning label
 - implied_comment: the intended implied meaning associated with the instance
-
-The dataset will be released publicly following the review process.
