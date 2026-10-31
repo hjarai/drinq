@@ -2,9 +2,13 @@
 
 **Hirona Jacqueline Arai and Xiang Ren** · ACL 2026 · USC INK Lab
 
-**[▶ Try the interactive demo](https://hjarai.github.io/drinq/)** — read a question in context, pick the implied meaning, and compare your accuracy with human annotators and current LLMs.
+### [▶ Try the interactive demo](https://hjarai.github.io/drinq/)
 
-[Paper](PAPER_URL_HERE) · [Poster (PDF)](drinq_poster.pdf)
+Read a question in context, pick the implied meaning, and see how your accuracy compares with human annotators and current LLMs.
+
+[Paper (ACL Anthology)](https://aclanthology.org/2026.acl-long.1597/) · [Poster (PDF)](drinq_poster.pdf)
+
+[![DRInQ poster](img/poster.png)](drinq_poster.pdf)
 
 ## Abstract
 
@@ -19,8 +23,8 @@ Human conversation relies heavily on conversational implicature, in which speake
 | `question` | The surface-form question, shared across pragmatic variants |
 | `context` | The conversational context in which the question is uttered |
 | `options` | Five candidate implied meanings (A–E) presented to annotators and models |
-| `implied_comment` | The implied meaning the context was constructed to carry (used as the answer key in the demo) |
-| `consensus` | COLUMN_DESCRIPTION_TO_CONFIRM |
+| `consensus` | Human-annotated answer: the option chosen by at least 4 of 5 annotators (the evaluation label) |
+| `implied_comment` | The implied meaning the context was generated to carry |
 
 ## Citation
 
@@ -29,6 +33,9 @@ Human conversation relies heavily on conversational implicature, in which speake
   title     = {DRInQ: Evaluating Conversational Implicature with Controlled Context Variation},
   author    = {Arai, Hirona Jacqueline and Ren, Xiang},
   booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)},
-  year      = {2026}
+  year      = {2026},
+  url       = {https://aclanthology.org/2026.acl-long.1597/}
 }
 ```
+
+Illustrations on the demo page and poster: [irasutoya](https://www.irasutoya.com/).
