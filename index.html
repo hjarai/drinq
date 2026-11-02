@@ -25,9 +25,6 @@ h1.title{font-family:Lexend,sans-serif;font-weight:800;font-size:clamp(30px,6.5v
 .sub{font-family:Lexend,sans-serif;font-weight:400;font-size:20px;color:var(--muted);margin:0 0 14px}
 .meta{font-size:14px;color:var(--muted)}
 .meta a,.prose a{color:var(--plum);text-decoration:none;border-bottom:1px solid currentColor}
-nav.toc{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0 32px}
-nav.toc a{font-size:13px;font-weight:600;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:999px;padding:6px 12px;text-decoration:none}
-nav.toc a.cta{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 h2{font-family:Lexend,sans-serif;font-weight:600;font-size:24px;margin:44px 0 10px;line-height:1.2}
 h2 .num{display:inline-block;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--plum);margin-right:10px;vertical-align:middle}
 .prose p{margin:0 0 14px;font-size:16.5px}
@@ -127,22 +124,40 @@ footer code{font-size:12px;background:var(--card);border:1px solid var(--line);b
 @media (max-width:560px){.ex.illus{grid-template-columns:1fr}.ex.illus .side{grid-auto-flow:column;justify-content:center}.ex.illus .side img{width:56px}}
 .logos{display:flex;gap:22px;align-items:center;flex-wrap:wrap;margin:18px 0 6px}
 .logos img{height:34px;width:auto;background:#fff;padding:6px 10px;border-radius:8px;border:1px solid var(--line);box-sizing:content-box}
+
+.topbar{position:sticky;top:0;z-index:50;background:rgba(243,241,234,.92);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.topbar-in{max-width:760px;margin:0 auto;padding:8px 16px;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.topbar .home{font-family:Lexend,sans-serif;font-weight:600;font-size:14px;color:var(--ink);text-decoration:none;white-space:nowrap}
+.topbar nav{display:flex;gap:6px;flex-wrap:wrap}
+.topbar nav a{font-size:12.5px;font-weight:600;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:999px;padding:5px 11px;text-decoration:none;white-space:nowrap}
+.topbar nav a.cta{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+h2[id],#try,#cite{scroll-margin-top:64px}
+.citebtn{font:inherit;font-weight:600;font-size:14px;border-radius:10px;padding:9px 16px;border:1.5px solid var(--ink);background:var(--ink);color:var(--bg);cursor:pointer}
+.citebtn.done{background:var(--green);border-color:var(--green);color:#fff}
+#bib{display:none;margin-top:10px}
+#bib.show{display:block}
 </style>
 </head>
 <body>
+<div class="topbar">
+  <div class="topbar-in">
+    <a class="home" href="https://hironaarai.com/" title="Back to hironaarai.com">← Hirona Arai</a>
+    <nav>
+      <a href="#try" class="cta">Try it</a>
+      <a href="#how">How it works</a>
+      <a href="#f1">Findings</a>
+      <a href="https://aclanthology.org/2026.acl-long.1597/">Paper</a>
+      <a href="https://github.com/hjarai/drinq">Data</a>
+      <a href="#cite">Cite</a>
+    </nav>
+  </div>
+</div>
 <div class="wrap">
 
 <header>
   <h1 class="title"><span class="a">Same question,</span><br><span class="b">different answers.</span></h1>
   <p class="sub">Can language models read between the lines?</p>
   <p class="meta"><b>DRInQ</b>: Evaluating Conversational Implicature with Controlled Context Variation · ACL 2026<br>Hirona J. Arai &amp; Xiang Ren · USC INK Lab · <a href="https://aclanthology.org/2026.acl-long.1597/" id="paperlink">Paper</a> · <a href="https://github.com/hjarai/drinq">Data &amp; code</a> · <a href="drinq_poster.pdf">Poster</a></p>
-  <nav class="toc">
-    <a href="#try" class="cta">Try it yourself ↓</a>
-    <a href="#how">How DRInQ works</a>
-    <a href="#f1">Finding 1</a>
-    <a href="#f2">Finding 2</a>
-    <a href="#f3">Finding 3</a>
-  </nav>
 </header>
 
 <section class="hero">
@@ -314,14 +329,15 @@ footer code{font-size:12px;background:var(--card);border:1px solid var(--line);b
 
 
 <footer>
-  <div class="logos"><img src="img/ink.png" alt="INK Lab"><img src="img/usc.png" alt="USC"><img src="img/acl.png" alt="ACL 2026 San Diego"></div>
+  <div class="logos"><a href="https://inklab.usc.edu/" title="INK Lab"><img src="img/ink.png" alt="INK Lab"></a><a href="https://www.usc.edu/" title="USC"><img src="img/usc.png" alt="USC"></a><a href="https://2026.aclweb.org/" title="ACL 2026"><img src="img/acl.png" alt="ACL 2026 San Diego"></a></div>
   <p>All 231 demo items are from the validated DRInQ dataset. “Human consensus” is the reading chosen by at least 4 of 5 annotators. Human and model figures are from the paper. Illustrations: <a href="https://www.irasutoya.com/" style="color:inherit">irasutoya</a>.</p>
-  <p>Cite:</p>
-  <code>@inproceedings{arai2026drinq,
+  <p id="cite"><button class="citebtn" id="citebtn" type="button">Copy BibTeX</button></p>
+  <code id="bib">@inproceedings{arai2026drinq,
   title     = {DRInQ: Evaluating Conversational Implicature with Controlled Context Variation},
   author    = {Arai, Hirona Jacqueline and Ren, Xiang},
   booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)},
-  year      = {2026}
+  year      = {2026},
+  url       = {https://aclanthology.org/2026.acl-long.1597/}
 }</code>
 </footer>
 </div>
@@ -369,6 +385,12 @@ $('next').onclick=next; $('skip').onclick=next;
 function esc(s){return s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 function norm(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,'');}
 render();
+const bibBtn=document.getElementById('citebtn'), bib=document.getElementById('bib');
+bibBtn.onclick=async()=>{ bib.classList.add('show');
+  try{ await navigator.clipboard.writeText(bib.textContent); bibBtn.textContent='Copied BibTeX ✓'; bibBtn.classList.add('done'); }
+  catch(e){ bibBtn.textContent='Select and copy below'; }
+  bib.scrollIntoView({behavior:'smooth',block:'nearest'});
+  setTimeout(()=>{bibBtn.textContent='Copy BibTeX';bibBtn.classList.remove('done');},2500); };
 </script>
 </body>
 </html>
